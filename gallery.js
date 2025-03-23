@@ -46,9 +46,9 @@ window.onload = () => {
     Kakao.Share.sendDefault({
       objectType: 'feed',
       content: {
-        title: '25년 경상북도 군 특성화고 호남권역 합동 발대식에 초대합니다.',
+        title: '25년 군 특성화고 호남권역 합동 발대식에 초대합니다.',
         description: '2025년 4월 15일 화요일',
-        imageUrl: 'https://i.imgur.com/mqOGHD8.png',
+        imageUrl: 'https://i.imgur.com/0JsbYwH.png',
         imageWidth: 1200,
         imageHeight: 630,
         link: {
